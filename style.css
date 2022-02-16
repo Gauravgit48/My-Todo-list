@@ -14,7 +14,7 @@ body{
   height: 100vh;
   /* overflow: hidden; */
   padding: 10px;
-  background: rgb(92,116,236);
+  background: rgb(92,116,235);
   background: radial-gradient(circle, rgba(92,116,236,1) 0%, rgba(252,70,214,1) 100%);}
 .wrapper{
   background: #fff;
